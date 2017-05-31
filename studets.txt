@@ -1,8 +1,0 @@
-STUDENT INFO
-Student		|Group	|
-----------------|-------|
-Osadchuk	|143	|
-Petrov		|321	|
-Ivanov		|405	|
-Ivaniuk		|143	|
-Esypiuk		|143	|
