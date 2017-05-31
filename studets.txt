@@ -1,0 +1,4 @@
+STUDENT INFO
+Student		|Group	|
+----------------|-------|
+Osadchuk	|143	|
