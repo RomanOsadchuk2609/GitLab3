@@ -6,4 +6,4 @@ Petrov		|321	|
 Ivanov		|405	|
 Ivaniuk		|143	|
 Esypiuk		|143	|
-Gumeniuk	|999	|
+Gumeniuk	|243	|
